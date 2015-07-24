@@ -1,0 +1,1 @@
+The purpose of this project is to build an enterprise configuration management system that's easy to use.
